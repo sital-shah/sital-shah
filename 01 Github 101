@@ -12,5 +12,10 @@ Terminology
 9. MERGES - combining two branches together, so different features of each branch will be both active on one version of the code
 
 Benefits of GitHub
+------------------
 + Multiple versions of the code and multiple users can work on the code simultaneously
-+ Serves as a backup
++ Serves as a backup storage for your local code as it will be available on the online repository
++ Useful tracking issue or bugs and assigning improvements to different people on the team
++ Hosts repositories from data scientists across industries and around the world
+
+
